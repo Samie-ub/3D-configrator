@@ -1,0 +1,374 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        64.02982330322266,
+        21.803985595703125,
+        36.2916259765625
+      ],
+      "min": [
+        -63.67810821533203,
+        -22.314678192138672,
+        -42.46409606933594
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999561309814453,
+        0.9999952912330627,
+        0.9999796748161316
+      ],
+      "min": [
+        -0.9999842047691345,
+        -0.9998859167098999,
+        -0.9999860525131226
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.2474803626537323,
+        0.28693628311157227
+      ],
+      "min": [
+        -0.5144421458244324,
+        -0.29111170768737793
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 382386,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        59.64208984375,
+        19.897968292236328,
+        37.151580810546875
+      ],
+      "min": [
+        -59.87688446044922,
+        -15.591538429260254,
+        -33.25042724609375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999644160270691,
+        0.9999974966049194,
+        0.9999517202377319
+      ],
+      "min": [
+        -0.9999950528144836,
+        -0.9999999403953552,
+        -0.9994081854820251
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.26770520210266113,
+        0.4382025897502899
+      ],
+      "min": [
+        -0.26767438650131226,
+        -0.35201817750930786
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1529544,
+      "componentType": 5125,
+      "count": 383421,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 61711,
+      "max": [
+        59.25141906738281,
+        20.579849243164063,
+        36.737693786621094
+      ],
+      "min": [
+        -58.8255615234375,
+        -15.097213745117188,
+        -33.1519775390625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3886068,
+      "componentType": 5126,
+      "count": 61711,
+      "max": [
+        0.9992784261703491,
+        1.0,
+        0.9997995495796204
+      ],
+      "min": [
+        -0.9999396204948425,
+        -0.9999960064888,
+        -0.999972403049469
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 61711,
+      "max": [
+        0.2677052319049835,
+        0.43820253014564514
+      ],
+      "min": [
+        -0.26767435669898987,
+        -0.35201823711395264
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3063228,
+      "componentType": 5125,
+      "count": 361011,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "harb-ayyad (https://sketchfab.com/harb-ayyad)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/t-shirt-hoodie-3d-model-fd8d10eb5f5748e581ca6bd0db2abcce",
+      "title": "t shirt hoodie 3d model"
+    },
+    "generator": "Sketchfab-15.38.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4507272,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1542200,
+      "byteOffset": 4507272,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4626600,
+      "byteOffset": 6049472,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 10676072,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material.001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6
+      ],
+      "matrix": [
+        0.05454268346986872,
+        -0.0027182021904123806,
+        0.0006066125263724891,
+        0.0,
+        -0.0006711215338577812,
+        -0.001282844907914522,
+        0.0545945494241727,
+        0.0,
+        -0.0027029971892269136,
+        -0.0545309543755424,
+        -0.0013145780580845726,
+        0.0,
+        -0.0101165771484375,
+        -0.2003530114889145,
+        0.06457781791687012,
+        1.0
+      ],
+      "name": "Hoodie_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_5"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_6"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
