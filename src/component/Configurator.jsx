@@ -2,8 +2,6 @@ import { useCustomization } from "../context/Customization";
 
 const Configurator = () => {
   const {
-    material,
-    setMaterial,
     shoesColors,
     shoesColor,
     setShoesColor,
